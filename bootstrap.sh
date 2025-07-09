@@ -1,3 +1,3 @@
 #!/bin/bash
 
-kubectl apply statefulset.yml
+kubectl apply -f statefulset.yml
